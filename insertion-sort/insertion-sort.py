@@ -1,9 +1,7 @@
-arr_to_sort = [66, 67, 22, 84, 1, 3, 7, 17, 34, 24, 99, 76, 57]
+from common.common import arr_to_sort
+from common.common import swap
+
 print(arr_to_sort)
-
-
-def swap(arr, i, j):
-    arr[i], arr[j] = arr[j], arr[i]
 
 
 def insertion_sort(arr):

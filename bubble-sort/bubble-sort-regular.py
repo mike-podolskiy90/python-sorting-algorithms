@@ -1,4 +1,6 @@
-arr_to_sort = [66, 67, 22, 84, 1, 3, 7, 17, 34, 24, 99, 76, 57]
+from common.common import arr_to_sort
+from common.common import swap
+
 print(arr_to_sort)
 
 
@@ -8,7 +10,7 @@ def bubble_sort(arr):
     for j in range(n):
         for i in range(n - 1):
             if arr[i] > arr[i + 1]:
-                arr[i], arr[i + 1] = arr[i + 1], arr[i]
+                swap(arr, i, i + 1)
 
 
 bubble_sort(arr_to_sort)

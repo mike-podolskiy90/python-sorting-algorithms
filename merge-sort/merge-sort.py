@@ -1,4 +1,5 @@
-arr_to_sort = [66, 67, 22, 84, 1, 3, 7, 17, 34, 24, 99, 76, 57]
+from common.common import arr_to_sort
+
 print(arr_to_sort)
 
 
