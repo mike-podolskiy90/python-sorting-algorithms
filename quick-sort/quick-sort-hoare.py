@@ -8,8 +8,7 @@ def swap(arr, i, j):
 
 def partition(arr, low, high):
     pivot = arr[(low + high) // 2]
-    i = low
-    j = high
+    i,j  = low, high
 
     while True:
         while arr[i] < pivot:
