@@ -29,7 +29,7 @@
 
 3. Timsort
 
-4. Heapsort
+4. [Heapsort](heap-sort/heap-sort.py)
 
 5. Bubble sort
 
