@@ -38,6 +38,3 @@ def heap_sort(arr):
 heap_sort(arr_to_sort)
 
 print(arr_to_sort)
-
-print((7 - 1) // 2)
-print(7 // 2 - 1)
