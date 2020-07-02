@@ -16,14 +16,12 @@
 
 7. [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
 
+8. [Tree sort](https://en.wikipedia.org/wiki/Tree_sort)
+
 
 ## Implementations
 
-1. Quicksort
-
-    [Lomuto partition](quick-sort/quick-sort-lomuto.py)
-    
-    [Hoare partition](quick-sort/quick-sort-hoare.py)
+1. Quicksort: [Lomuto partition](quick-sort/quick-sort-lomuto.py), [Hoare partition](quick-sort/quick-sort-hoare.py)
     
 2. [Mergesort](merge-sort/merge-sort.py)
 
@@ -31,19 +29,13 @@
 
 4. [Heapsort](heap-sort/heap-sort.py)
 
-5. Bubble sort
-
-    [Regular](bubble-sort/bubble-sort-regular.py)
+5. Bubble sort: [Regular](bubble-sort/bubble-sort-regular.py), [Improved](bubble-sort/bubble-sort-improved.py)
     
-    [Improved](bubble-sort/bubble-sort-improved.py)
-    
-6. Insertion sort
-
-    [Regular](insertion-sort/insertion-sort.py)
-    
-    [Recursive](insertion-sort/insertion-sort-recursive.py)
+6. Insertion sort: [Regular](insertion-sort/insertion-sort.py), [Recursive](insertion-sort/insertion-sort-recursive.py)
 
 7. [Selection sort](selection-sort/selection-sort.py)
+
+8. [Tree sort](tree-sort/tree-sort.py)
 
 ## Links
 
