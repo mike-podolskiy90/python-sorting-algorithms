@@ -18,6 +18,8 @@
 
 8. [Tree sort](https://en.wikipedia.org/wiki/Tree_sort)
 
+9. [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
+
 
 ## Implementations
 
@@ -36,6 +38,8 @@
 7. [Selection sort](selection-sort/selection-sort.py)
 
 8. [Tree sort](tree-sort/tree-sort.py)
+
+9. [Counting sort](counting-sort/counting-sort.py)
 
 ## Links
 
