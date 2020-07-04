@@ -20,6 +20,8 @@
 
 9. [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 
+10. [Radix sort](https://en.wikipedia.org/wiki/Radix_sort)
+
 
 ## Implementations
 
@@ -40,6 +42,8 @@
 8. [Tree sort](tree-sort/tree-sort.py)
 
 9. [Counting sort](counting-sort/counting-sort.py)
+
+10. [Radix sort](radix-sort/radix-sort.py)
 
 ## Links
 
