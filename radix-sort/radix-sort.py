@@ -1,4 +1,5 @@
-arr_to_sort = [7, 1, 2, 1, 5]
+from common.common import arr_to_sort
+
 print(arr_to_sort)
 
 
