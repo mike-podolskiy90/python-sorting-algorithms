@@ -29,7 +29,7 @@
     
 2. [Mergesort](merge-sort/merge-sort.py)
 
-3. Timsort
+3. [Timsort](tim-sort/tim-sort.py)
 
 4. [Heapsort](heap-sort/heap-sort.py)
 
